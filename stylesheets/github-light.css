@@ -14,9 +14,12 @@
    limitations under the License.
 
 */
+body{
+  
 
+}
 .pl-c /* comment */ {
-  color: #969896;
+  color: aquamarine;
 }
 
 .pl-c1      /* constant, markup.raw, meta.diff.header, meta.module-reference, meta.property-name, support, support.constant, support.variable, variable.other.constant */,
@@ -113,4 +116,3 @@
 .pl-mo /* meta.output */ {
   color: #1d3e81;
 }
-
